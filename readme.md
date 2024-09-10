@@ -22,7 +22,4 @@ This is a Maven-based Java project created for the COMP3111 Software Engineering
     2. Second commit after adding two print statements in the `mainApp1` class for testing.
 - **Project Build**: The project builds without any errors, and I was able to run it successfully. Debugging features in IntelliJ helped in identifying and fixing syntax issues.
 
-## Remarks
-- Initial commit includes basic Java classes and `pom.xml` configuration.
-- Successfully added JUnit as a dependency for future testing purposes.
-- Project builds successfully and runs without errors.
+
