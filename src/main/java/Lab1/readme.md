@@ -3,7 +3,7 @@
 ## Project Overview
 This is a Maven-based Java project created for the COMP3111 Software Engineering course. It involves setting up a local Git repository, pushing the project to GitHub, and implementing basic Java functionalities.
 
-![img_1.png](img_1.png)
+![img.png](img.png)
 ## Setup Instructions
 1. **Java SDK**: Ensure JDK 21 is installed.
 2. **IntelliJ IDEA**: Use IntelliJ to create the project using Maven as the build tool.
